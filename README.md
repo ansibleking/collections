@@ -1,3 +1,2 @@
 # Ansible Collection - ansibleking.collections
-
-Documentation for the collection.
+summa try panninen to try for oracle linux automation manager
