@@ -1,0 +1,5 @@
+---
+# tasks file for mayil
+- name: print hostname
+  ansible.builtin.debug:
+    msg: "{{ ansible_facts['fqdn'] }}"
